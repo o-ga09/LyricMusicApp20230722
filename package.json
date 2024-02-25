@@ -19,6 +19,7 @@
     "jest-when": "3.5.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "styled-components": "^5.3.11",
     "textalive-app-api": "^0.3.2",
     "textalive-react-api": "^0.3.2"
   },
